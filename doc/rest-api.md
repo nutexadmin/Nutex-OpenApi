@@ -1,4 +1,4 @@
-# Public Rest API for BlueHelix Broker (2018-09-25)
+# Public Rest API for Nutex
 
 ## General API Information
 
