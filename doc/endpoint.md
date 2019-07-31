@@ -2,12 +2,12 @@
 
 ## Base Domain
 
-bhex.com
+nutex.io
 
 ## API Endpoint ($HOST)
 
 | Name               | base endpoint                                    |
 | ------------------ | ------------------------------------------------ |
-| rest-api           | **[https://api.bhex.com](https://api.bhex.com)** |
-| web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)** |
-| user-data-stream   | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)** |
+| rest-api           | **[https://api.nutex.io](https://api.nutex.io)** |
+| web-socket-streams | **[wss://wsapi.nutex.io](wss://wsapi.nutex.io)** |
+| user-data-stream   | **[wss://wsapi.nutex.io](wss://wsapi.nutex.io)** |
